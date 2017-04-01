@@ -22,7 +22,7 @@ import android.preference.PreferenceManager;
 /**
  * Holds application-wide state
  *
- * @author Sean J. Barbeau    sdsdfsffhff
+ * @author Sean J. Barbeau    
  */
 public class Application extends android.app.Application {
 

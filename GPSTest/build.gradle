@@ -1,0 +1,87 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 21
+        versionCode 22
+        versionName "2.1.10"
+    }
+
+    // http://stackoverflow.com/questions/20673625/gradle-0-7-0-duplicate-files-during-packaging-of-apk
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+    }
+
+    if (project.hasProperty("secure.properties")
+            && new File(project.property("secure.properties")).exists()) {
+
+        Properties props = new Properties()
+        props.load(new FileInputStream(file(project.property("secure.properties"))))
+
+        signingConfigs {
+            debug {
+                storeFile file("gpstest.debug.keystore")
+            }
+
+            release {
+                storeFile file(props['key.store'])
+                keyAlias props['key.alias']
+                storePassword "askmelater"
+                keyPassword "askmelater"
+            }
+        }
+    } else {
+        signingConfigs {
+            debug {
+                storeFile file("gpstest.debug.keystore")
+            }
+
+            release {
+                // Nothing here
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
+}
+
+task askForPasswords << {
+    // Must create String because System.readPassword() returns char[]
+    // (and assigning that below fails silently)
+    def storePw = new String(System.console().readPassword("\nKeystore password: "))
+    def keyPw = new String(System.console().readPassword("Key password: "))
+
+    android.signingConfigs.release.storePassword = storePw
+    android.signingConfigs.release.keyPassword = keyPw
+}
+
+tasks.whenTaskAdded { theTask ->
+    if (theTask.name.equals("packageRelease")) {
+        theTask.dependsOn "askForPasswords"
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services-maps:9.6.1'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'org.jraf:android-switch-backport:1.4.0'
+    compile 'com.google.maps.android:android-maps-utils:0.4.4'
+    // Unit tests that don't rely on Android framework
+    testCompile 'junit:junit:4.12'
+}

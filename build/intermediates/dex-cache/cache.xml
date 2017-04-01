@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_7b30afe5e4f6b3100cc002e7ceb6d9270a115866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b162998848d2d0c77db158c85cb6fa7183d9f4f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_1343b01de87104e67abf04a078f1c3cbc505fe08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_43a64316f6282a85068ea0e84e3f463571193105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_78ef83d65cb13d358cbb825b7e355d22db9046fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_896b7104525872b467585d2d12d71193a51ef191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_cde8c841fcfd6a724f4b27ba5738ea880a08c97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_0b9630dac3916d65544269a36f1463e558d60b94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_641f4a8185a6a425156b8643ad61369d92efb5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_0a5017269ee3e839723b806457f7decd9c762454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.6.1_73e4bfc5901107c5b135b264914665375205c029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9e6cc0f0b6e822e3481eb20357cd552d37511f03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="38977b598c6f84fd3de04b6b8e3fba8683fe7355">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\instant-run-bootstrap_14e14a3edc422f100b6897ec3bd6d5a01801e6b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_9dbdba4ad42b0a59b01641cf8b3dd96ed416f327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_056be73430ade782b946c4ca12e7a6f5df2419e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_43f489850781ca02d7fbab776a5354dc39ee88c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_30232956071298c9adc298e4792f4b5f94025808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_1abe47ad8ca961bfa7378ca7ebd502a651275887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ada53630c6d421c0afca08b4f5f5362fc179e02">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\instant-run_73638bc39a480199dea07f97cf369a25e664632b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.google.maps.android-android-maps-utils-0.4.4_bd5020f2273b268ebc60731344e2baa452189e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_86895678998df3c486f111f561267d74abb854d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a330b982b3e9cc5709d770a7aea3ffa1c2993856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\exploded-aar\org.jraf\android-switch-backport\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5be6154ea591aedafe737f93b365818681a9e305">
+        <dex dex="D:\software\Android\AndroidStudioProjects\gpstest-master\GPSTest\build\intermediates\pre-dexed\debug\org.jraf-android-switch-backport-1.4.0_0b3dba304caf70cf5c0d379db9c6907cdff835bc.jar" />
+    </item>
+
+</items>

@@ -22,7 +22,7 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 
 /**
  * A {@link FragmentStatePagerAdapter} that returns a fragment corresponding to
- * one of the primary sections of the app.
+ * one of the primary sections of the app. test
  */
 public class SectionsPagerAdapter extends FragmentStatePagerAdapter {
 
